@@ -1,4 +1,4 @@
-#!/Users/jirayukaewsing/miniforge3/envs/conda310-venv/bin/python
+#!/bin/python3
 
 number = int(input())
 
